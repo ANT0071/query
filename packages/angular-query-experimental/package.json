@@ -69,8 +69,8 @@
   },
   "devDependencies": {
     "@angular/common": "^20.0.0",
-    "@angular/compiler": "^20.0.0",
-    "@angular/core": "^20.0.0",
+    "@angular/compiler": "^21.2.9",
+    "@angular/core": "^20.3.18",
     "@angular/platform-browser": "^20.0.0",
     "@tanstack/query-test-utils": "workspace:*",
     "eslint-plugin-jsdoc": "^50.5.0",
